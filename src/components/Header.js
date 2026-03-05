@@ -60,7 +60,7 @@ const Header = () => {
 
 
     return (
-        <header className="fixed top-0 left-0 w-full z-50 bg-gradient-to-b from-black via-black/90 to-transparent px-6 md:px-12 py-4 flex items-center justify-between backdrop-blur-sm">
+        <header className="fixed top-0 pl-12 left-0 w-full z-50 bg-gradient-to-b from-black via-black/90 to-transparent px-6 md:px-12 py-4 flex items-center justify-between backdrop-blur-sm">
 
             {/* Logo */}
             <img
